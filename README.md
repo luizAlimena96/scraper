@@ -32,7 +32,7 @@ Aplicação para coleta automática de AUM (Assets Under Management) de empresas
 
 1. **Clone o repositório**:
 ```bash
-git clone https://github.com/seu-usuario/aum-scraper.git
+git clone https://github.com/luizAlimena96/scraper.git
 cd aum-scraper
 ```
 
